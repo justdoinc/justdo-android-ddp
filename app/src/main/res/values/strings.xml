@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JustDo DDP</string>
+    <string name="error_ddp">DDP Error</string>
+
+</resources>
